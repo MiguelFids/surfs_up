@@ -1,13 +1,21 @@
 # Week 9 Challenge
 ##### Miguel Fidelino
 
-## Purpose
+## Deliverable 3: A written report for the statistical analysis 
 
-Query and describe the information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu using Pandas and Flask.
+## 1 .Purpose
+
+Query and describe the information about temperature trends before opening a surf shop. Specifically, we must get the temperature data for the months of June and December in Oahu using Pandas.
 
 Libraries used:
 SQLAlchemy
 SQLite
 Pandas
-Flask
+
+## 2. Results
+
+There is a bulleted list that addresses the three key differences in weather between June and December.
+
+- December is generally a degree or three farenheit colder than the months of June.
+- December experiences higher volatility in temperature as per the standard deviation of 3.74 (December) as compared to 3.25 (June)
 
