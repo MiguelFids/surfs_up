@@ -16,6 +16,8 @@ Pandas
 
 There is a bulleted list that addresses the three key differences in weather between June and December.
 
+![alt text](june_temps.png "June Temperatures") ![alt text](december_temps.png "December Temperatures")
+
 - December is generally a degree or three farenheit colder than the months of June.
 - December experiences higher volatility in temperature as per the standard deviation of 3.74 (December) as compared to 3.25 (June)
 
