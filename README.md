@@ -23,3 +23,8 @@ There is a bulleted list that addresses the three key differences in weather bet
 - June experiences lower precipitation on average. See the charts below:
 
 ![alt text](jun_prcptn.png "June Precipitation") ![alt text](dec_prcptn.png "December Precipitation")
+
+
+## 3. Summary
+
+December and June both experience fairly similar warmth in these two months. Both months also experience a similar precipitation occurences in frequency and in milimeters. All the months of June trend upwards in temperature, while December is starting to trend downwards, which is typical given the season. If a surf shop were to open, it would experience better weather overall in June for surf season, but it would not suffer greatly from weather during December. 
